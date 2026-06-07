@@ -1,0 +1,20 @@
+# Angular
+/node_modules
+/dist
+/.angular
+
+# Environment
+src/environments/environment.prod.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
